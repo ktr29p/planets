@@ -1,2 +1,2 @@
-*.csv
+[!f !F]*.csv
 results/
